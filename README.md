@@ -3,7 +3,8 @@
 Apiring Software Developer 👩🏽‍💻
 
 I'm current working in the HR space but passionate to pursue a career in the tech field.
-I'm currently learning HTML, CSS, JavaScript and Tailwind.
+
+- 🌱 I’m currently learning - HTML, CSS, JavaScript and Tailwind
 
 📫 How to reach me: 
 ✉️ tiffanywilliams870@gmail.com
